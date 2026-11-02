@@ -16,7 +16,11 @@
     "sqlite",
     "rest-api"
   ],
-  "author": "",
+  "author": "Akash Sharma",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dev-akashshar/support_akashshar.git"
+  },
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
