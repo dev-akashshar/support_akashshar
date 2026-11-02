@@ -1,0 +1,10 @@
+node_modules/
+.env
+.env.*
+!.env.example
+*.log
+src/database/*.sqlite
+src/database/*.sqlite-wal
+src/database/*.sqlite-shm
+src/database/*backup*
+.DS_Store
